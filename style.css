@@ -1,0 +1,13 @@
+h1{
+    font-size: 5rem !important;
+    font-weight: bolder !important;
+}
+
+p{
+    font-size: 2.1875rem;
+}
+
+button{
+    width: 15.625rem;
+    height: 5rem;
+}
